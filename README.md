@@ -15,7 +15,7 @@ will be spilt into seven part and collected by former Club Member
 - Computed geometry(计算几何)
 
 ### Author(anyone wants to join us is welcomed)
-ly,hzq
+ly,hzq,wm
 
 ### Version
 1.0
