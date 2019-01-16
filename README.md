@@ -6,13 +6,15 @@ for the support of timely uploading and updating code in **Jnu winter camp** (1/
 
 ### ToDo
 will be spilt into seven part and collected by former Club Member
-- greedy(贪心算法)
-- DP(动态规划)
-- String(字符串)
-- data structure(数据结构)
-- graph(图论)
-- number theory(数论)
-- Computed geometry(计算几何)
+1. data structure(数据结构)
+2. String(字符串)
+3. number theory(数论)
+4. DP(动态规划) + greedy(贪心)
+5. Computed geometry(计算几何)
+6. graph(图论)
+7. STL
+8. java大数
+9. Some Tips
 
 ### Author(anyone wants to join us is welcomed)
 ly,hzq,wm
