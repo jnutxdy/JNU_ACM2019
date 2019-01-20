@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     int n;
-    int a[117];
+    int a[150];
     while(~scanf("%d",&n))
     {
         for(int i = 0; i < n; i++)
