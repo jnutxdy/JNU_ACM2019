@@ -39,7 +39,7 @@
 9. Some Tips
 
 ### 部分ACM相关电子书
-[](https://github.com/jsphLim/ACM_Tutorial)
+[link](https://github.com/jsphLim/ACM_Tutorial)
 
 ### 常用刷题OJ
 - http://acm.hdu.edu.cn/
